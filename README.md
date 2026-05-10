@@ -7,22 +7,22 @@ Projet M1 Dev. Manager Full Stack — EFREI 2025-26
 
 ## 📁 Structure du projet
 
-churn-project/
-├── data/                    ← dataset (customer_churn.csv)
-├── models/                  ← modèles entraînés (.pkl)
-├── notebooks/
-│   └── eda.ipynb            ← analyse exploratoire + entraînement
-├── src/
-│   ├── preprocessing.py     ← nettoyage + encodage + split
-│   ├── train.py             ← entraînement des modèles
-│   ├── evaluate.py          ← évaluation + métriques
-│   └── shap_analysis.py     ← interprétabilité SHAP
-├── api/
-│   └── main.py              ← API REST FastAPI
-├── dashboard/
-│   └── app.py               ← Dashboard Streamlit
-├── requirements.txt
-└── README.md
+ # churn-project/
+ # ├── data/                    ← dataset (customer_churn.csv)
+ # ├── models/                  ← modèles entraînés (.pkl)
+ # ├── notebooks/
+ # │   └── eda.ipynb            ← analyse exploratoire + entraînement
+# ├── src/
+# │   ├── preprocessing.py     ← nettoyage + encodage + split
+# │   ├── train.py             ← entraînement des modèles
+# │   ├── evaluate.py          ← évaluation + métriques
+# │   └── shap_analysis.py     ← interprétabilité SHAP
+# ├── api/
+# │   └── main.py              ← API REST FastAPI
+# ├── dashboard/
+# │   └── app.py               ← Dashboard Streamlit
+# ├── requirements.txt
+# └── README.md
 
 ---
 
